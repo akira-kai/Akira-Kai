@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChatterboxZer0
-- 👀 I’m interested in ... C# coding, I am an avid gamer
-- 🌱 I’m currently learning ... Unity Learn Pathways for Unity and C#
+- 👋 Hi, I’m @akira-kai
+- 👀 I’m interested in ... Godot and game development, I am an avid gamer
+- 🌱 I’m currently learning ... Godot 4 and its intricacies
 - 💞️ I’m looking to collaborate on ... translations of programs into other languages, typo corrections
-- 📫 How to reach me ... Discord: Crono#7657
+- 📫 How to reach me ... Discord: @kai_dev Twitter: @akira_kai_dev
 
 <!---
 ChatterboxZer0/ChatterboxZer0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
